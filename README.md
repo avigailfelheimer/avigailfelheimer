@@ -6,7 +6,7 @@ Software Engineering student. Here you'll find my projects with direct links.
 
 * **[Smart-Bookshelf-AI](https://github.com/avigailfelheimer/Smart-Bookshelf-AI)** – Academic computer vision project: photograph a bookshelf, and the system detects every book spine (fine-tuned YOLOv8n), reads the titles (EasyOCR), diagnoses physical shelf problems (lying books, overcrowding, dead space), recommends fixes, and looks up book metadata via the Open Library API. Includes saving and searching books across every shelf ever scanned.
 * **[SocialHub](https://github.com/avigailfelheimer/SocialHub)** – A user app with posts, comments, and to-do tasks. Node.js server with a React client; every user can view everyone's content, edit their own, and manage a personal task list.
-* **[travel-app-react](https://github.com/avigailfelheimer/travel-app-react)** – A React-based travel app with a separate server and database (forked from a base project with personal customizations).
+* **[VisCity](https://github.com/avigailfelheimer/VisCity)** – A React-based travel app with a separate server and database (forked from a base project with personal customizations).
 
 ## 🛠️ Stack
 
