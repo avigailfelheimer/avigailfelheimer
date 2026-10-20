@@ -21,4 +21,4 @@ Software Engineering student. Here you'll find my projects with direct links.
 
 ## 📫 Contact
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/avigailfelheimer)
+[![GitHub]([https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/avigailfelheimer](https://www.linkedin.com/in/avigail-felheimer/))
